@@ -6,6 +6,7 @@
   - [UrbanFit](https://github.com/HanisahWazir/UrbanFit)
   - [White Rose Publications](https://github.com/farzanajoe/White-Rose-Dashboard)
   - [Global Sales Profit PowerBI](https://github.com/HanisahWazir/global-sales-profit-powerbi)
+  - [Glaucoma Detection](https://github.com/HanisahWazir/Glaucoma_Detection)
 
 <h2> 🤳 Connect with me:</h2>
 
